@@ -3,5 +3,4 @@
 def greeting (name)
   puts "Hello #{name}"
   greeting(World)
-  
 end
