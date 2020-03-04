@@ -1,6 +1,7 @@
  # Define a local variable called 'greeting',
  # give it the value of the string "Hello World"
-def greeting(Hello World)
+ greeting = "Hello World"
+def greeting (Hello World)
   puts"#{Hello World}"
 end
 
